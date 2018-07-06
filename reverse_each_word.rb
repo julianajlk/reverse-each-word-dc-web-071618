@@ -1,4 +1,5 @@
 def reverse_each_word(string)
+  raise 
   split_string = string.split("")
   new_sentence = []
   words.each do |word|
